@@ -3,8 +3,7 @@
 
 A real-time fullstack chat and video calling application with private/group messaging, screen sharing, session recording, typing indicators, and dynamic multilingual UI. Built with the MERN stack, Zustand, and Stream API — fully secure, responsive, and scalable.
 
-![App Screenshot](frontend/public/screenshot-for-readme.png)
-
+![App Screenshot](Landing_page.png)
 ---
 
 ## 🚀 Features
@@ -81,9 +80,9 @@ npm run dev
 
 ## 📸 Screenshots
 
-| Chat Interface | Video Call |
-|----------------|------------|
-| ![Chat](frontend/public/screenshot-for-readme.png) | *(Add video call screenshot here)* |
+| Login Interface | 
+|----------------|
+|![App Screenshot](Login_Page.png) |  
 
 ---
 
