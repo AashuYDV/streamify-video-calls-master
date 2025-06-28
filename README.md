@@ -1,7 +1,9 @@
 
 <h1 align="center">💬✨ Fullstack Chat & Video Calling App ✨📹</h1>
 
-
+<p align="center">
+  <img src="Login Page.png" alt="Demo App Screenshot" width="80%" />
+</p>
 
 <p align="center">
   Real-time messaging • Group & 1-on-1 video calls • Language exchange platform <br />
