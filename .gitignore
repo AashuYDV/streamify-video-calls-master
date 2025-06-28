@@ -24,6 +24,6 @@ dist-ssr
 *.sw?
 
 .env
-git remote add origin https://github.com/AashuYDV/streamify-video-calls-master.git
-git branch -M master
-git push -u origin master
+git remote add origin https://github.com/AashuYDV/streamify-video-calls-main.git
+git branch -M main
+git push -u origin main
